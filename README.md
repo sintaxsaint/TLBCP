@@ -55,7 +55,7 @@ Real progress requires moving up the base at the hardware level, genuine weight-
 
 **Theoretical:** Complete. All four documents.
 
-**Generative Memory:** Tokenizer (mbtok) in active development as the foundation of the MBAI implementation.
+**Generative Memory:** Conceptual architecture complete. Implementation planned as part of MBAI.
 
 **Hardware:** Theoretical proposal. Base-4 transistor implementation requires materials science and fabrication research beyond current scope.
 
