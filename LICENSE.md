@@ -19,18 +19,22 @@ THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ## Tier 2 — Commercial License (Organisations with £10,000+ Annual Revenue)
 
-Any organisation with annual revenue exceeding £10,000 that uses, implements, or builds upon this architecture in a commercial product or service must obtain a commercial licence.
+Any organisation with annual revenue exceeding £10,000 that uses, implements, or builds upon any architecture, technique, or concept described in this repository in a commercial product or service must obtain a commercial licence.
+
+**The licence fee is charged annually and is completely recalibrated each year.** Each year is treated independently — the fee is calculated fresh against that year's total annual revenue, at whatever bracket that revenue falls into. Previous years have no bearing on the current year's fee.
 
 **Fee structure:**
 
-| Annual Revenue | Licence Fee |
+| Annual Revenue | Annual Licence Fee |
 |---|---|
-| £10,000 – £1,000,000 | 0.5% of annual revenue |
-| £1,000,000 – £10,000,000 | 1.0% of annual revenue |
-| £10,000,000 – £100,000,000 | 2.0% of annual revenue |
-| £100,000,000+ | 3.0% of annual revenue |
+| £10,000 – £1,000,000 | 0.5% of that year's annual revenue |
+| £1,000,000 – £10,000,000 | 1.0% of that year's annual revenue |
+| £10,000,000 – £100,000,000 | 2.0% of that year's annual revenue |
+| £100,000,000+ | 3.0% of that year's annual revenue |
 
-Credit must be given to Elliot Readman (sintaxsaint) as the original author in any product, publication, or service that incorporates this architecture.
+**A single licence covers the entire repository.** Regardless of how many techniques, architectures, or concepts from this repository an organisation implements — whether one or all fourteen — only one annual licence fee is required. There is no additional charge per technique.
+
+Credit must be given to Elliot Readman (sintaxsaint) as the original author in any product, publication, or service that incorporates anything from this repository.
 
 To obtain a commercial licence, contact the author via GitHub: github.com/sintaxsaint
 
