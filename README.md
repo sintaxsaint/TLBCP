@@ -42,6 +42,9 @@ The full artificial voice specification. Why speakers are wrong, pressure reserv
 ### [ARTIFICIAL_SMELL.md](ARTIFICIAL_SMELL.md)
 The full artificial nose specification. Why e-noses are wrong, dual triangular passage geometry, full surface molecular sensor arrays, combinatorial signal processing, and dual passage directional detection.
 
+### [THE_ANSWER_TO_5_QUESTIONS.md](THE_ANSWER_TO_5_QUESTIONS.md)
+Five questions philosophers and physicists have failed to resolve for centuries. The speed of light, the direction of time, the origin of the universe, the nature of consciousness, and what a number actually is. Answered from first principles.
+
 ---
 
 ## The Unified Argument
