@@ -33,6 +33,15 @@ All documented techniques extending the Generative Memory architecture. Prior ar
 ### [ARTIFICIAL_SIGHT.md](ARTIFICIAL_SIGHT.md)
 The full artificial eye specification. Dome geometry, active reflection, dynamic focus, binocular depth, colour perception, cognitive load attenuation, foveal tracking, and memory projection overlay.
 
+### [ARTIFICIAL_HEARING.md](ARTIFICIAL_HEARING.md)
+The full artificial ear specification. Why membranes are wrong, cone capture, tunnel amplification, mechanical hammer staging, fluid medium transfer, and position-based hair cell frequency separation.
+
+### [ARTIFICIAL_VOICE.md](ARTIFICIAL_VOICE.md)
+The full artificial voice specification. Why speakers are wrong, pressure reservoir, variable geometry soft tube, solenoid array geometry control, and 64-dimensional coordinated phoneme production.
+
+### [ARTIFICIAL_SMELL.md](ARTIFICIAL_SMELL.md)
+The full artificial nose specification. Why e-noses are wrong, dual triangular passage geometry, full surface molecular sensor arrays, combinatorial signal processing, and dual passage directional detection.
+
 ---
 
 ## The Unified Argument
@@ -45,6 +54,12 @@ At the cognition layer — static pattern matching imposes an understanding ceil
 
 At the vision layer — passive camera-based systems miss the active, adaptive, memory-integrated nature of biological sight entirely.
 
+At the hearing layer — membrane microphones skip every stage of biological hearing that makes it accurate, doing frequency separation in the wrong place.
+
+At the voice layer — membrane speakers produce sound through the wrong mechanism entirely, where shaped air is the correct approach.
+
+At the smell layer — e-noses detect individual compounds but cannot read combinations, have no directionality, and miss what biological olfaction actually does.
+
 In every case the industry is optimising the wrong variable. Faster binary. Bigger training runs. Better cameras. These delay the ceiling. They do not remove it.
 
 Real progress requires moving up the base at the hardware level, genuine weight-based learning at the cognition level, and active retinal architecture at the vision level — simultaneously.
@@ -53,13 +68,13 @@ Real progress requires moving up the base at the hardware level, genuine weight-
 
 ## Development Status
 
-**Theoretical:** Complete. All four documents.
+**Theoretical:** Complete. All seven documents.
 
 **Generative Memory:** Conceptual architecture complete. Implementation planned as part of MBAI.
 
 **Hardware:** Theoretical proposal. Base-4 transistor implementation requires materials science and fabrication research beyond current scope.
 
-**Artificial Sight:** Theoretical proposal. Full spec documented.
+**Artificial Sight, Hearing, Voice, Smell:** Theoretical proposals. Full specs documented. Proof of concept builds possible from off the shelf components.
 
 **Next steps:** MBAI implementation. Continued theoretical development. Seeking academic engagement.
 
